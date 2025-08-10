@@ -31,7 +31,7 @@ I handled the entire process — from cleaning and exploring the data to buildin
 
   • Feature impact: Outlet Type, Item MRP, and Item Type were the strongest predictors
 
-##$ 🤖 Machine Learning
+### 🤖 Machine Learning
   
   • Model Used: Gradient Boosting Regressor (best accuracy)
 
