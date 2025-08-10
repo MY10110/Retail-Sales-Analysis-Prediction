@@ -7,7 +7,7 @@ I handled the entire process — from cleaning and exploring the data to buildin
 
 ### Note:
 
-Plotly visuals and the saved prediction model (.pkl file) won’t work directly on GitHub. Please download the notebook and model files to run the dashboard and predictions locally.
+This repository contains two versions of the notebook — one with Plotly visuals and another using Matplotlib and Seaborn for static plots. Plotly visuals and the saved prediction model (.pkl file) won’t display or run directly on GitHub. Please download the notebook(s) and model files to run the dashboard and predictions locally.
 
 ### Sales Prediction Dashboard
 
