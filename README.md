@@ -5,6 +5,14 @@
 This project takes raw retail sales data and transforms it into actionable insights and a working sales prediction tool.
 I handled the entire process — from cleaning and exploring the data to building a predictive machine learning model and visualizing the results.
 
+### Note:
+
+Plotly visuals and the saved prediction model (.pkl file) won’t work directly on GitHub. Please download the notebook and model files to run the dashboard and predictions locally.
+
+### Sales Prediction Dashboard
+
+<img width="1457" height="756" alt="Screenshot 2025-08-10 210137" src="https://github.com/user-attachments/assets/970def33-201b-4de6-b4b4-6ccc2d4e7434" />
+
 ### 🎯 Objectives
 
 1. In this analysis, I set out to answer:
